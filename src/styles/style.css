@@ -1,4 +1,7 @@
 /* cambiar la fuente de la pagina */
+* {
+    font-family: 'Roboto', sans-serif;
+}
 
 body {
     background-color: #0a0a23;
