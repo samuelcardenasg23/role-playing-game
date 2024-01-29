@@ -18,4 +18,4 @@ The Dragon Fighting Game is an interactive game where players embark on a quest 
 Try your luck with the hidden easter egg by picking a number. If your chosen number matches one of the randomly selected numbers, you win gold!
 
 ## Getting Started
-To play the game, simply open [Game](www.google.com)
+To play the game, simply open [Game]([www.google.com](https://samuelcardenasg23.github.io/role-playing-game/))
